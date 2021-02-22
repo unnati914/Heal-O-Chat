@@ -1,5 +1,6 @@
 # Heal-O-Chat
-Heal-O-Chat is a Social Media Application for people who have been feeling less motivated in life or are losing hope. This platform allows users to chat with people and share their thoughts and feelings with each other and thereby let go of stress, anxiety, and depression that they've been feeling for long.
+Heal-O-Chat is a Social Media Application for people who have been feeling less motivated in life or are losing hope. This platform allows users to chat with people and share their thoughts and feelings with each other and thereby let go of stress, anxiety, and depression that they've been feeling for long time. 
+
 
 ![](https://github.com/plazzy99/Heal-O-Chat/blob/master/app/src/main/res/drawable/doodle.png)
 
